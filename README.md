@@ -6,6 +6,8 @@
 
 明日方舟自动化公招工具. 
 
+对应讲解视频: https://www.bilibili.com/video/BV1xp421d7r9
+
 ---
 
 # TO DO
